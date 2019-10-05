@@ -1,0 +1,100 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+.header
+{
+	position:;
+	height:70px;
+	left:0;
+	right:0;
+	background-color:white;
+	box-shadow: 0 4px 5px -6px gray;
+}
+.image
+{
+	width:300px;
+	height:70px;
+	background-color:;
+	left:9%;
+	position:absolute;
+}
+.account
+{
+	width:300px;
+	height:60px;
+	background-color:;
+	float:right;
+}
+.bell
+{
+	float:left;
+	padding:;
+	width:;
+	background-color: ;
+}
+.content
+{
+	width:100%;
+	height:1200px;
+	background-color:;
+
+}
+.cb
+{
+	margin:20px;
+	height:350px;
+	width:400px;
+	background-color: ;
+	float:left;
+}
+.h1
+{
+	width:100%;
+	height:150px;
+	background-color: ;
+}
+.footer
+{
+	width:100%;
+	height:300px;
+	background-color:#F2F4F4 ;
+	left:0px;
+	color:black;
+}
+.button1 {
+  margin-left:50px;
+  padding: 12px 52px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  background-color: white;
+  color: #5DADE2;
+  border: 2px solid #5DADE2 ; 
+  border-radius: 4px;
+}
+.button1 {
+  -webkit-transition-duration: 0.4s; /* Safari */
+  transition-duration: 0.4s;
+}
+
+.button1:hover {
+  background-color:#5DADE2 ; /* Green */
+  color: white;
+}
+.left
+{
+	width:40%;
+	height:150px;
+	float:left;
+	background-color:;
+}
+.right
+{
+	width:60%;
+	float:left;
+	height:150px;
+	background-color:;
+}
